@@ -30,4 +30,4 @@ Both containers are multistage to reduce the size in the final Images and are bu
 
   docker compose up --build
 
-After complete the process the app can be used 
+After complete the build process, go to __http://localhost/__ in a Web Browser, you should see something similar to "Name:2fdd6fde14cd" in the middle of the website.
